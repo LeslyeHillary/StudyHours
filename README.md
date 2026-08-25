@@ -2,7 +2,6 @@
 
 O StudyHours é uma aplicação Web e Mobile desenvolvida para auxiliar estudantes no acompanhamento e organização de sua rotina de estudos. A aplicação permite registrar e acompanhar o tempo dedicado aos estudos, facilitando o controle da carga horária e ajudando o usuário a manter uma rotina mais organizada e produtiva.
 
-# Funcionalidades
 
 ## Funcionalidades
 
