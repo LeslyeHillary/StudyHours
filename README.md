@@ -4,20 +4,31 @@ O StudyHours é uma aplicação Web e Mobile desenvolvida para auxiliar estudant
 
 # Funcionalidades
 
-Contador de horas de estudo
-  Iniciar, pausar e finalizar uma sessão de estudo.
-  Registrar automaticamente o tempo estudado.
-Acompanhamento de estudos
-  Visualizar o total de horas estudadas.
-  Consultar o histórico de sessões de estudo.
-  Acompanhar o progresso ao longo do tempo.
-Organização
-  Registrar sessões por data.
-  Organizar os estudos de acordo com as matérias ou categorias.
-Aplicação Web e Mobile
-  Acesso pelo navegador.
-  Interface adaptada para dispositivos móveis.
-  Experiência de uso simples e responsiva.
-Gerenciamento de usuário
-  Cadastro e acesso à conta.
-  Armazenamento dos dados de estudo de cada usuário.
+## Funcionalidades
+
+### Contador de horas de estudo
+
+* Iniciar, pausar e finalizar uma sessão de estudo.
+* Registrar automaticamente o tempo estudado.
+
+### Acompanhamento de estudos
+
+* Visualizar o total de horas estudadas.
+* Consultar o histórico de sessões de estudo.
+* Acompanhar o progresso ao longo do tempo.
+
+### Organização
+
+* Registrar sessões por data.
+* Organizar os estudos de acordo com as matérias ou categorias.
+
+### Aplicação Web e Mobile
+
+* Acesso pelo navegador.
+* Interface adaptada para dispositivos móveis.
+* Experiência de uso simples e responsiva.
+
+### Gerenciamento de usuário
+
+* Cadastro e acesso à conta.
+* Armazenamento dos dados de estudo de cada usuário.
